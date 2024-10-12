@@ -1,6 +1,6 @@
 # HM_Fingerprint-Based Proxy Detection
 
-This project is a **microprocessor and microcontroller** system designed to detect proxy attendance using fingerprint recognition. The system utilizes the **ESP8266 microcontroller** and **Arduino Uno** to implement both wired and wireless configurations. In the wireless setup, fingerprint enrollments from multiple devices are registered on a central computer. Data is managed via Firebase, and all programs are written in Java.
+This project is a **microprocessor and microcontroller** system designed to detect proxy attendance using fingerprint recognition. The system utilizes the **ESP8266 microcontroller** and **Arduino Uno** to implement both wired and wireless configurations. In the wireless setup, fingerprint enrollments from multiple devices are registered on a central computer. Data is managed via Firebase.
 
 ## Project Structure
 
