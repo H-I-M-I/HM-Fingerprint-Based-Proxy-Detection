@@ -25,4 +25,5 @@ The project folder contains the following subfolders:
 - **Fingerprint Sensor**
 - **Firebase (for backend)**
 - **Java**
+- **C++**
 
