@@ -26,4 +26,3 @@ The project folder contains the following subfolders:
 - **Firebase (for backend)**
 - **Java**
 - **C++**
-
